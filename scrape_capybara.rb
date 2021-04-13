@@ -1,7 +1,7 @@
 require 'selenium-webdriver'
 require 'capybara'
 require './capybara_config'
-require '/features/browser_login_spec'
+require './spec/features/browser_login_spec'
 
 class ScrapeCapybara
 
